@@ -1,2 +1,2 @@
 # Derivative-Calculator
-A mathematical calculator designed to find the derivative of a given function.
+A derivative calculator I'm developing in C++ as a way to practice and strengthen my programming skills while applying concepts from calculus.
